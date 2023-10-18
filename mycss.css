@@ -1,0 +1,36 @@
+body{
+    background-color: darkorange;
+    font-family: cursive;
+    margin: 100px;
+    border: 20px double yellow;
+}
+table tr td{
+    border: 5px solid;
+    border-collapse: collapse;
+    padding: 20px;
+    margin: 30px;
+    background-color: red;
+    color: black
+}
+table{
+    padding: 30px;
+}
+img{
+    border: 5px solid;
+    padding: 1px;
+}
+a:link{
+    color: black;
+    font-style: none;
+}
+a:hover{
+    color: orange;
+    text-decoration: none;
+}
+a:visited{
+    color: aqua;
+    font-style: none;
+}
+p{
+    text-decoration: none;
+}
